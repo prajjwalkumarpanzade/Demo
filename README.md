@@ -21,12 +21,12 @@
 **git add bio.txt** - Add UG Education file to feature2   
 **git commit -m "Create UG Education file"** - Commit changes to feature2   
 
-**git log** - Display History of repo    
-**git status** - Display state of staging   
-**git reset --soft HEAD~1**  - Revert changes   
-**git reset -- hard HEAD~1** - Discard local changes to previous commit  
-**git checkout -d feature1** - Delete branch
-**git checkout master**  - change to master branch
+**git log** - Display History of repo      
+**git status** - Display state of staging     
+**git reset --soft HEAD~1**  - Revert changes     
+**git reset -- hard HEAD~1** - Discard local changes to previous commit    
+**git checkout -d feature1** - Delete branch  
+**git checkout master**  - change to master branch  
 **git remote add origin <repolink>** -  
 **git push origin master** - push master branch to remote git
 **git push origin feature1** - push feature1 branch to remote git
