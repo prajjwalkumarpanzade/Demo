@@ -28,7 +28,7 @@
 **git checkout -d feature1** - Delete branch  
 **git checkout master**  - change to master branch  
 **git remote add origin <repolink>** -  
-**git push origin master** - push master branch to remote git
-**git push origin feature1** - push feature1 branch to remote git
-**git push origin feature2** - push feature2 branch to remote git
+**git push origin master** - push master branch to remote git  
+**git push origin feature1** - push feature1 branch to remote git  
+**git push origin feature2** - push feature2 branch to remote git   
 
