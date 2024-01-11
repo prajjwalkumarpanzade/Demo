@@ -1,0 +1,28 @@
+/*git init*/ - initialize empty Repo
+/*vi name.txt*/ - Create text file
+/*git add name.txt*/ - Add text fine to repo
+/*git commit -m "Create name file"*/ - Commit changes to repo
+
+/*git checkout -b feature1*/ - Create branch feature1
+/*vi add.txt*/ - Create text file
+/*git add add.txt*/ - Add address file to feature1
+/*git commit -m "Create address file"*/ - Commit changes to feature1
+
+/*vi bio.txt*/ - Create text file
+/*git add bio.txt*/ - Add biodata file to feature1
+/*git commit -m "Create biodata file"*/ - Commit changes to feature1
+
+/*git checkout -b feature2*/ - Create branch feature2
+/*vi pg.txt*/ - Create text file
+/*git add pg.txt*/ - Add PG Education file to feature2
+/*git commit -m "Create PG Education file"*/ - Commit changes to feature1
+
+/*vi ug.txt*/ - Create text file
+/*git add bio.txt*/ - Add UG Education file to feature2
+/*git commit -m "Create UG Education file"*/ - Commit changes to feature2
+
+/*git log*/ - Display History of repo
+/*git status*/ - Display state of staging
+/*git reset --soft HEAD~1*/  - Revert changes
+/*git reset -- hard HEAD~1*/ - Discard local changes to previous commit
+/*git checkout -d feature1*/ - Delete branch
