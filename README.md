@@ -1,4 +1,4 @@
-**git init** - initialize empty Repo     
+==git init== - initialize empty Repo     
 **vi name.txt** - Create text file    
 **git add name.txt** - Add text fine to repo   
 **git commit -m "Create name file"** - Commit changes to repo    
